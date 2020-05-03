@@ -1,5 +1,4 @@
-#developed by.: warriors crew
-#somos.: int 0x80 - c0nd0r - cooldrax2004 - sp4rt4 - cooldgirl 
+#developed by.: USER#9999
 
 import urllib2
 import sys
@@ -658,20 +657,20 @@ def usage():
 print \
 """                        
       ___  I am.: 
-     (___)       Warriors Crew 
-      }_{  We are.:       
-      }_{          Int 0x80
-  _ _ }_{ _ _      C0nd0r
- |_ _|\_/|_ _|     CooldRax2004
-     | Z |         CooldGirl
-     | U |         Sp4Rt4
-     | L |
+     (___)       USER#9999 
+      }_{       
+      }_{          
+  _ _ }_{ _ _      
+ |_ _|\_/|_ _|     
+     | G |         
+     | O |         
+     | T |
      | F |		
-     | I |		
-     | Q |
-     \ A /	
-      \R/     
-       Y    \n 
+     | U |		
+     | C |
+     \ K /	
+      \E/     
+       D    \n 
 
 """
 
@@ -738,7 +737,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Developed By.: Warriors Crew"
+		print "Developed By.: USER#9999"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
